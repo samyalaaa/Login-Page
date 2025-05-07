@@ -1,4 +1,5 @@
 # 🔐 Login Page
+![login page](https://github.com/samyalaaa/Login-Page/blob/d67a7ab25bbb6be38b5ed831a04f7ff43ff87650/screenshot.jpg)
 ## 📄 Overview
 This project is a simple and responsive login page designed using HTML, CSS, and JavaScript. It serves as a foundational template for user authentication interfaces in web applications.
 
